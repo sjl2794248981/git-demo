@@ -1,10 +1,8 @@
-hello atguigu! hello git   24444444
+hello atguigu! hello git   2444444
 hello atguigu! hello git
 hello atguigu! hello git
 hello atguigu! hello git
 hello atguigu! hello git
-hello atguigu! hello git
-<<<<<<< HEAD
+helloaatguigu! hello git
 hello atguigu! hello git  master
-hello atguigu! hello git  hot-fix
-
+aaaaa啊啊啊
